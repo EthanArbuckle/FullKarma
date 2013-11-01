@@ -1,0 +1,9 @@
+Package: com.ethanarbuckle.fullkarma
+Name: FullKarma
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: [A[B
+Author: [A[B
+Section: Tweaks
